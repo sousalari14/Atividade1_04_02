@@ -23,4 +23,4 @@ O código foi desenvolvido para alternar os LEDs com o seguinte comportamento:
 **Como Usar**
 - Compile o código utilizando o VSCode.
 - Carregue o código na placa BitDogLab.
-- A simulação também pode ser verificada no diagram.json, visto integração com o *Wokwi*.
+- A simulação também pode ser verificada no *diagram.json*, devido a integração com o *Wokwi*.
