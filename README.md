@@ -3,6 +3,7 @@
 Este projeto simula o funcionamento de um semáforo utilizando a função *add_repeating_timer_ms()* do Pico SDK. O semáforo alterna entre três sinais: vermelho, amarelo e verde, com temporização de 3 segundos para cada mudança de estado.
 
 **Componentes Necessários**
+
 - Microcontrolador Raspberry Pi Pico W;
 - LED vermelho;
 - LED amarelo;
@@ -21,6 +22,11 @@ O código foi desenvolvido para alternar os LEDs com o seguinte comportamento:
 - O LED verde apaga.
 
 **Como Usar**
+
 - Compile o código utilizando o VSCode.
 - Carregue o código na placa BitDogLab.
 - A simulação também pode ser verificada no *diagram.json*, devido a integração com o *Wokwi*.
+
+**Link do vídeo de funcionamento**
+
+https://drive.google.com/drive/folders/1-9pVgkojia8EXkUnv-MwkPL24KXGVcmJ?usp=sharing
